@@ -34,7 +34,7 @@ Race Length and Gender Analysis:
 
 Created a histogram to visualize the distribution of race lengths of 50 kilometeres and 50 miles to see which one had the most runs as shown below the count is higher for 50 kilometeres than 50 miles by a count of slighlty greater than 20,000 people as compared to 5500 people in 50 miles.
 
-https://github.com/Thokozile23/Python-Project/blob/main/graph1..png
+
 
 
 Analyzed using a histogram the race lengths based on athletes' gender as shown below.There are equal proportions of males and females who run the 50 kilometere race but the male proportion is slightly higher for males than females for the 50 mile race.
