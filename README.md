@@ -5,6 +5,7 @@
 This project analyzes a dataset called Two centuries of races, sourced from https://www.kaggle.com/datasets/fatihyavuzz/two-centuries-of-um-races.It contains information on long-distance running events held in various countries, including event dates, names, participant counts, athlete performance times, age categories, speeds, and birth years. It provides insights into the demographic and performance characteristics of urban marathons over two centuries.This project aims to explore trends and patterns in marathon data.
 
 **Data Cleaning Process**
+
 1.	**Data Subsetting**:
 
 •	Filtered the data to include only USA races with distances of 50 kilometers or 50 miles in the year 2020.
@@ -30,10 +31,12 @@ This project analyzes a dataset called Two centuries of races, sourced from http
 •	Reordered the columns for logical organization and easier analysis.
 
 **Exploratory Data Analysis (EDA)**
+
 Race Length and Gender Analysis:
 
 Created a histogram to visualize the distribution of race lengths of 50 kilometeres and 50 miles to see which one had the most runs as shown below the count is higher for 50 kilometeres than 50 miles by a count of slighlty greater than 20,000 people as compared to 5500 people in 50 miles.
-graph1..png
+ 
+
 
 
 
