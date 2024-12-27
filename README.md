@@ -47,11 +47,15 @@ Plotted a distribution plot for race length and average speed as shown below. Th
 
 Plotted a violin plot to examine the relationship between race length and average speed by gender.
 
-![Alt text](graph4.png)
+![Alt text](graph 4.png)
+
 
 Plotted a scatter plot to examine the average speed against the age and based on gender.As shown below the average speed decreases as age increases.The decrease in speed is slighter higher in females than in males.
 
-![Alt text](graph5.png)
+
+
+![Alt text](graph 5.png)
+
 
 **Gender-Based Speed Differences**:
 
