@@ -36,29 +36,20 @@ Race Length and Gender Analysis:
 
 Created a histogram to visualize the distribution of race lengths of 50 kilometeres and 50 miles to see which one had the most runs as shown below the count is higher for 50 kilometeres than 50 miles by a count of slighlty greater than 20,000 people as compared to 5500 people in 50 miles.
 
-
-
-
+![Alt text](graph1..png)
 
 Analyzed using a histogram the race lengths based on athletes' gender as shown below.There are equal proportions of males and females who run the 50 kilometere race but the male proportion is slightly higher for males than females for the 50 mile race.
-
-
-
+![Alt text](graph2.png)
 
 Plotted a distribution plot for race length and average speed as shown below. There is a normal distribution of the average speed of atheletes and it is slightly skewed to the right.
 
-Plotted a violin plot to examine the relationship between race length and average speed by gender.
+![Alt text](graph3.png)
 
+Plotted a violin plot to examine the relationship between race length and average speed by gender.
+![Alt text](graph4.png)
 
 Plotted a scatter plot to examine the average speed against the age and based on gender.As shown below the average speed decreases as age increases.The decrease in speed is slighter higher in females than in males.
-
-
-
-
-
-
-
-
+![Alt text](graph5.png)
 
 **Gender-Based Speed Differences**:
 
