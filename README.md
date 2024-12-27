@@ -33,7 +33,7 @@ This project analyzes a dataset called Two centuries of races, sourced from http
 Race Length and Gender Analysis:
 
 Created a histogram to visualize the distribution of race lengths of 50 kilometeres and 50 miles to see which one had the most runs as shown below the count is higher for 50 kilometeres than 50 miles by a count of slighlty greater than 20,000 people as compared to 5500 people in 50 miles.
-
+graph1..png
 
 
 
