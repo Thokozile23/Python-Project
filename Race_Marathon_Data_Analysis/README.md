@@ -39,7 +39,7 @@ This project analyzes a dataset called **Two Centuries of Races**, sourced from 
 - **Histogram of Race Length Distribution**: Visualized the distribution of **50 kilometers** vs **50 miles** races. The 50 km race had a higher participation count (slightly greater than 20,000) compared to the 50-mile race (around 5,500 participants).
 
 
-![Race Length Histogram](https://github.com/Thokozile23/Python-Project/blob/2ef7f98e37f874042c424dead3e9c111e2c5fccc/Race_Marathon_Data_Analysis/race%20length.png.png)
+![Race Length Histogram](racelength.png)
 
 
 
