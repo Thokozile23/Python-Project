@@ -82,22 +82,31 @@ This project focuses on predicting the **median house value** in California usin
 ---
 
 ## 📊 Visualizations
-### Correlation Heatmaps
+### Correlation Heatmaps of all variables
 🎨 ![](https://github.com/Thokozile23/Python-Project/blob/7329c93ec5d6098557db972efefbe4f7e9c04192/House%20Price%20Prediction/tic1.png)
 
 
+
+
+### Correlation heatmap showing relationships with the bedroom ratio and household rooms included 
+🎨 ![](https://github.com/Thokozile23/Python-Project/blob/18fe7b7709872f9f7b6c489e1942a045063a0841/House%20Price%20Prediction/tic3.png)
+
+
+
+
+### Scatter plot of longitude vs Lattitude
 🎨 ![](https://github.com/Thokozile23/Python-Project/blob/82d1fd8df28c89250e628532487bd3fa8f4bcfc3/House%20Price%20Prediction/tic2.png)
 
-
-
-🎨 ![](https://github.com/Thokozile23/Python-Project/blob/18fe7b7709872f9f7b6c489e1942a045063a0841/House%20Price%20Prediction/tic3.png)
 
 
 
 
 
 ### Feature Importance (Random Forest)
-🎨 ![]()
+
+🎨 ![](https://github.com/Thokozile23/Python-Project/blob/de8a20f7a21f58aa5afb3e8e247add326c9a9133/House%20Price%20Prediction/tic4.png)
+
+
 
 ---
 
