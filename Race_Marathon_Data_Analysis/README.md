@@ -6,6 +6,16 @@ This project analyzes a dataset called **Two Centuries of Races**, sourced from 
 
 ---
 
+## 🛠️ Tools and Libraries Used
+- **Python**: Main programming language.
+- **Libraries**:
+  - **Pandas**: Data manipulation.
+  - **NumPy**: Numerical operations.
+  - **Matplotlib & Seaborn**: Data visualization.
+  - **scikit-learn**: Machine learning models and tools.
+  - **Jupyter Notebook**: Interactive environment for code execution.
+
+
 ## Data Cleaning Process 🧹
 
 ### 1. **Data Subsetting** 🔍
