@@ -85,6 +85,17 @@ This project focuses on predicting the **median house value** in California usin
 ### Correlation Heatmaps
 🎨 ![](https://github.com/Thokozile23/Python-Project/blob/7329c93ec5d6098557db972efefbe4f7e9c04192/House%20Price%20Prediction/tic1.png)
 
+
+🎨 ![](https://github.com/Thokozile23/Python-Project/blob/82d1fd8df28c89250e628532487bd3fa8f4bcfc3/House%20Price%20Prediction/tic2.png)
+
+
+
+🎨 ![]()
+
+
+
+
+
 ### Feature Importance (Random Forest)
 🎨 ![](images/feature_importance.png)
 
