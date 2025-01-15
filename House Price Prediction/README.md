@@ -117,22 +117,6 @@ This project focuses on predicting the **median house value** in California usin
 
 ---
 
-## 🛠️ How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/house-price-prediction.git
-   ```
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook to reproduce results:
-   ```bash
-   jupyter notebook HousePricePrediction.ipynb
-   ```
-
----
-
 ## 🔗 Future Work
 - Incorporate more advanced models like Gradient Boosting and XGBoost.
 - Explore additional features to improve predictive power.
