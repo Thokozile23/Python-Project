@@ -90,14 +90,14 @@ This project focuses on predicting the **median house value** in California usin
 
 
 
-🎨 ![]()
+🎨 ![](https://github.com/Thokozile23/Python-Project/blob/18fe7b7709872f9f7b6c489e1942a045063a0841/House%20Price%20Prediction/tic3.png)
 
 
 
 
 
 ### Feature Importance (Random Forest)
-🎨 ![](images/feature_importance.png)
+🎨 ![]()
 
 ---
 
